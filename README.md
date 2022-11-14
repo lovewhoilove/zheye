@@ -1,5 +1,8 @@
 # zheye
 
+1. 本项目采用了bootstrap v5作为样式库
+
+
 ## Project setup
 ```
 yarn install
